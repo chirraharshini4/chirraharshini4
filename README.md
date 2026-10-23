@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 First-year Data Science student
+- 🎓 Second-year Data Science student
 - 📊 Interested in Data Science, AI/ML, and Data Analytics
 - 🌱 Continuously learning programming and problem-solving
 - 🔍 Exploring real-world datasets through hands-on projects
